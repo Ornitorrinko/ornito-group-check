@@ -1,0 +1,28 @@
+{
+  "name": "ornito-group-check",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ornitorrinko/ornito-group-check",
+  "authors": [
+    "Vinicius Mesquita <vinicius.mesquita@ornitorrinko.com>"
+  ],
+  "description": "",
+  "main": "./dest/ornito-group-check",
+  "keywords": [
+    "jquery"
+    , "plugin"
+    , "custom"
+    , "checkbox"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies":{
+    "jquery": "2.1.1",
+    "bootstrap": "3.3.0"
+  }
+}
